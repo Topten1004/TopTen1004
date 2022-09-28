@@ -18,16 +18,10 @@ and project management and blockchain technology.
 - Python, Django, Flask, Odoo
 - Java, Spring Boot, J2EE, Kotlin
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
-- Wordpress, Drupal, Joomla, Typo3
-- WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
 - Laravel, CodeIgniter, CakePHP,
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
 - Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
-
-[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
-[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 
 #### Windows desktop app Development
 - C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
