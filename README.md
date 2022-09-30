@@ -15,16 +15,13 @@ and project management and blockchain technology.
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
 - C#, .NET, .NET Core, ASP.NET, Entity Framework
-- TypeScript, Angular.js, React.js, Node.js, Express
+- TypeScript, Angular.js, React.js, Node.js, Express.JS
 - Python, Django, Flask, Odoo
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
-- Wordpress, Drupal, Joomla, Typo3
-- WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
 - Laravel, CodeIgniter, CakePHP,
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
 - Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
-
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
@@ -34,6 +31,8 @@ and project management and blockchain technology.
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Unity-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
 
 #### Windows desktop app Development
 - C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
