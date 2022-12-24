@@ -2,15 +2,12 @@
 
 I am a Senior Software Engineer.
 Especially, I have proven experiences with Game Development, AR/VR, AI, Full-stack, Mobile & Desktop app development.
-I have over 8+ years of experience in Web , Mobile, Desktop App and blockchain technology development and IT consult.
+I have over 6+ years of experience in Web , Mobile, Desktop App and blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" height="256" />
 
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
