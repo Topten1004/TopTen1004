@@ -34,6 +34,6 @@ and project management and blockchain technology.
 - Web3 chrome extension
 
 ### :fire: My Stats :
-![crazycoding330's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazycoding330&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoding330&layout=compact&theme=vision-friendly-dark)](https://github.com/crazycoding330/github-readme-stats)
-  [![crazycoding330's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crazycoding330&theme=dark&background=000000)](https://git.io/streak-stats)
+![TopTen1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=topten1004&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topten1004&layout=compact&theme=vision-friendly-dark)](https://github.com/topten1004/github-readme-stats)
+  [![TopTen1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=topten1004&theme=dark&background=000000)](https://git.io/streak-stats)
