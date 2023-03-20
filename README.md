@@ -1,8 +1,7 @@
 ### Hello 👋
 
 I am a Senior Software Engineer.
-Especially, I have proven experiences with Game Development, AR/VR, AI, Full-stack, Mobile & Desktop app development.
-I have over +8 years of experience in Web , Mobile, Desktop App and blockchain technology development and IT consult.
+Especially, I have proven experiences with AI/ML/DL, Blockchain, GameFi, Game Development, Full-stack, Mobile & Desktop app development.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
@@ -15,10 +14,17 @@ and project management and blockchain technology.
 - TypeScript, Angular.js, React.js, Node.js, Express.JS
 - Python, Django, Flask, Odoo
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
-- Laravel, CodeIgniter, CakePHP,
+- Laravel, CodeIgniter, CakePHP
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
 - Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
+
+#### AI & ML
+- Tensor flow
+- Pandas
+- Numpy
+- Image Processing
+- NLP
 
 #### Windows desktop app Development
 - C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
