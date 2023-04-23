@@ -1,45 +1,29 @@
-### Hello 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+8+years+of+Experience+in+Web." alt="Typing SVG" /></a>
+</div>
 
-I am a Senior Software Engineer.
-Especially, I have proven experiences with AI/ML/DL, Blockchain, GameFi, Game Development, Full-stack, Mobile & Desktop app development.
+## Overview
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elitesuper&theme=github&utcOffset=8" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elitesuper&theme=github" />  
+</div>
 
-Passionate about launching, developing, and maintaining web and mobile projects requiring a
-broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
-back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
+## Achievements
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
+</p>
 
-#### Web & Mobile Development
-- HTML5, CSS3, JavaScript, jQuery, Prototype
-- C#, .NET, .NET Core, ASP.NET, Entity Framework
-- TypeScript, Angular.js, React.js, Node.js, Express.JS
-- Python, Django, Flask, Odoo
-- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
-- Laravel, CodeIgniter, CakePHP
-- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
-- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
-- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
+## Prefered Technicals
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
-#### AI & ML
-- Tensor flow
-- Pandas
-- Numpy
-- Image Processing
-- NLP
-
-#### Windows desktop app Development
-- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
-
-#### Blockchain Development
-- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
-- DAO, DEX, AMM, Yield Farming, Staking dApps
-- Smart contract development & unit test
-- NFT marketplace, NFT minting
-- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
-- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
-- NFT mint bot, Opensea sniper bot, Opensea offer bot
-- Web3 chrome extension
-
-### :fire: My Stats :
-![TopTen1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=topten1004&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topten1004&layout=compact&theme=vision-friendly-dark)](https://github.com/topten1004/github-readme-stats)
-  [![TopTen1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=topten1004&theme=dark&background=000000)](https://git.io/streak-stats)
+## Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,atom,androidstudio,git,github,linux,svg,unity,vercel,heroku,aws,rust,solidity" />
+  </a>
+</p>
+<br><br>
