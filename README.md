@@ -12,12 +12,19 @@ and project management and blockchain technology.
 - HTML5, CSS3, JavaScript, jQuery, Prototype
 - C#, .NET, .NET Core, ASP.NET, Entity Framework
 - TypeScript, Angular.js, React.js, Node.js, Express.JS
-- Python, Django, Flask, Odoo
+- Python, Django, Flask, Odoo, FastAPI
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
 - Laravel, CodeIgniter, CakePHP
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
 - Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
+
+#### Gaem Development
+- Unity
+- Cocos
+- Unreal
+- GameFi
+- P2E
 
 #### AI & ML
 - Tensor flow
@@ -27,7 +34,11 @@ and project management and blockchain technology.
 - NLP
 
 #### Windows desktop app Development
-- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
+- C++
+- Windows API
+- Qt, pyQT
+- MFC
+- C#, .NET, .NET Core, WPF
 
 #### Blockchain Development
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
