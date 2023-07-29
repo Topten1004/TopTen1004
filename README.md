@@ -19,9 +19,9 @@ and project management and blockchain technology.
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
 - Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
 
-#### Gaem Development
-- Unity
-- Cocos
+#### Game Development
+- Unity (C#)
+- Cocos (TypeScript, Cocos Creator)
 - Unreal
 - GameFi
 - P2E
