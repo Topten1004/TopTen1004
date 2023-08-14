@@ -8,13 +8,6 @@ broad yet experienced skillset. Intuitive problem-solving skills and proficient 
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
 
-#### Game Development
-- Unity (C#)
-- Cocos (TypeScript, Cocos Creator)
-- Unreal
-- GameFi
-- P2E
-
 #### AI & ML
 - Tensor flow
 - Pandas
@@ -30,8 +23,14 @@ and project management and blockchain technology.
 - CEX Trading Bot (Crypto Exchange APIs, CCXT library)
 - DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
 - NFT mint bot, Opensea sniper bot, Opensea offer bot
-- Web3 chrome extension
 
+#### Game Development
+- Unity (C#)
+- Cocos (TypeScript, Cocos Creator)
+- Unreal
+- GameFi
+- P2E
+  
 #### Windows desktop app Development
 - C++
 - Windows API
