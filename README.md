@@ -13,18 +13,6 @@ and project management and blockchain technology.
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%236f9f89&center=true&width=280&height=50">
 </p>
 
-<p align="center">
-  <a target="_blank" href="https://t.me/mohamad_saleh_82"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/3ISDlPM.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://twitter.com/mk_ss30"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/MVCecLe.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://www.linkedin.com/in/mohamad-khosravi-90176b228" alt="linkedin" title="linkedin"><img width="32px" src="https://i.imgur.com/44zuY2m.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://www.instagram.com/mh.saleh_/"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/tyqyBbq.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-
 #### AI & ML
 - Tensor flow
 - Pandas
