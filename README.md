@@ -12,9 +12,6 @@ and project management and blockchain technology.
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%236f9f89&center=true&width=280&height=50">
 </p>
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=mohamadsaleh82&color=6f9f89">
-</p>
 
 <p align="center">
   <a target="_blank" href="https://t.me/mohamad_saleh_82"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/3ISDlPM.png"/></a>
