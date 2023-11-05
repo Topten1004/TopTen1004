@@ -1,7 +1,6 @@
 ### Hello 👋
 
-I am a Senior Software Engineer.
-I have proven experiences with AI/ML/DL, Blockchain, GameFi, Game Development, Full-stack, Mobile & Desktop app development.
+AI/ML/DL, Blockchain, GameFi, Game Development, Web Full-stack, Mobile, Desktop app development.
 
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
