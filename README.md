@@ -48,65 +48,6 @@ and project management and blockchain technology.
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
 - Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
-<details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
- <p align="left">
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/File-Stream-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=File-Stream-bot&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Portfolio&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <!-- <a href="https://github.com/mohamadSaleh82/mohamadSaleh82"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=mohamadSaleh82&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> -->
-
-  </p>
-  <p align="center"><a target="_blank" href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=6f9f89&logo=repo"/></a>
-</details></p>
-
-
-<details open>
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-
-  <p align="center">
-    <a href="#">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohamadsaleh82&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
-    </a>
-  </p >
-  
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-<div align="center">
-   <a href="https://github.com/mohamadsaleh82">
-    <img height="140em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mohamadsaleh82&locale=en&show_icons=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883&hide=contribs,issues" alt="Github Stats">
-   </a>
-   <a href="https://github.com/mohamadsaleh82">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-   </a>
-   <br><br>
-   <img src="https://komarev.com/ghpvc/?username=mohamadsaleh82&color=4dc720&style=flat" alt="Github Profile Views" />
-   <img src="https://img.shields.io/github/followers/mohamadsaleh82?color=4C1&logo=github" alt="Github Followers" />
-</div>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-</details>
-<hr>
-
-### Main skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-</div><br>
-
-<br>
-
-<hr>
-
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -211,12 +152,3 @@ and project management and blockchain technology.
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41b883,50:175c3d,100:277753&section=footer&height=80" width="100%"/>
-
-
-### :fire: My Stats :
-![TopTen1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=topten1004&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topten1004&layout=compact&theme=vision-friendly-dark)](https://github.com/topten1004/github-readme-stats)
-  [![TopTen1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=topten1004&theme=dark&background=000000)](https://git.io/streak-stats)
