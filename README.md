@@ -3,54 +3,8 @@
 I am a Senior Software Engineer.
 I have proven experiences with AI/ML/DL, Blockchain, GameFi, Game Development, Full-stack, Mobile & Desktop app development.
 
-Passionate about launching, developing, and maintaining web and mobile projects requiring a
-broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
-back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
-
-#### AI & ML
-- Tensor flow
-- Pandas
-- Numpy
-- Image Processing
-- NLP
-
-#### Blockchain Development
-- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
-- DAO, DEX, AMM, Yield Farming, Staking dApps
-- Smart contract development & unit test
-- NFT marketplace, NFT minting
-- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
-- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
-- NFT mint bot, Opensea sniper bot, Opensea offer bot
-
-#### Game Development
-- Unity (C#)
-- Cocos (TypeScript, Cocos Creator)
-- Unreal
-- GameFi
-- P2E
-  
-#### Windows desktop app Development
-- C++
-- Windows API
-- Qt, pyQT
-- MFC
-- C#, .NET, .NET Core, WPF
-
-#### Web & Mobile Development
-- HTML5, CSS3, JavaScript, jQuery, Prototype
-- C#, .NET, .NET Core, ASP.NET, Entity Framework
-- TypeScript, Angular.js, React.js, Node.js, Express.JS
-- Python, Django, Flask, Odoo, FastAPI
-- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
-- Laravel, CodeIgniter, CakePHP
-- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
-- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
-- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
 
   <h3>👨‍💻 Programming and Markup Languages </h3>
 
@@ -152,3 +106,44 @@ and project management and blockchain technology.
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+#### AI & ML
+- Tensor flow
+- Pandas
+- Numpy
+- Image Processing
+- NLP
+
+#### Blockchain Development
+- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
+- DAO, DEX, AMM, Yield Farming, Staking dApps
+- Smart contract development & unit test
+- NFT marketplace, NFT minting
+- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
+- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
+- NFT mint bot, Opensea sniper bot, Opensea offer bot
+
+#### Game Development
+- Unity (C#)
+- Cocos (TypeScript, Cocos Creator)
+- Unreal
+- GameFi
+- P2E
+  
+#### Windows desktop app Development
+- C++
+- Windows API
+- Qt, pyQT
+- MFC
+- C#, .NET, .NET Core, WPF
+
+#### Web & Mobile Development
+- HTML5, CSS3, JavaScript, jQuery, Prototype
+- C#, .NET, .NET Core, ASP.NET, Entity Framework
+- TypeScript, Angular.js, React.js, Node.js, Express.JS
+- Python, Django, Flask, Odoo, FastAPI
+- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
+- Laravel, CodeIgniter, CakePHP
+- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
+- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
