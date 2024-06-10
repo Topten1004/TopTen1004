@@ -1,7 +1,6 @@
 ### Hello 👋
 
-AI/ML/DL, Blockchain, GameFi, Game Development, Web Full-stack, Mobile, Desktop app development.
-
+I am a Microsoft-Full Stack developer
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
