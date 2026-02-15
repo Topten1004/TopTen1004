@@ -1,4 +1,5 @@
 👋 Hi, I'm TopTen1004
+
 Senior Full Stack Engineer | AI/ML Engineer | Polyglot Developer | Systems Architect
 I build scalable systems, intelligent applications, and high‑performance software across multiple ecosystems. With deep experience spanning backend, frontend, mobile, cloud, AI/ML, game development, and blockchain, I thrive in complex engineering environments where architecture, performance, and innovation matter.
 
